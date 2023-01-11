@@ -8,6 +8,11 @@
     ],
     "android": {
       "package": "com.prasanth.teamUI"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6f1da670-8a34-408e-948a-91b799812944"
+      }
     }
   },
   "name": "teamUI"
