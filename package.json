@@ -7,8 +7,8 @@
     "android": "expo run:android",
     "ios": "expo run:ios",
     "web": "expo start --web",
-    "build":"expo build:android",
-    "build-status":"expo build:status"
+    "build": "expo build:android",
+    "build-status": "expo build:status"
   },
   "dependencies": {
     "@expo/webpack-config": "^0.17.2",
@@ -19,6 +19,7 @@
     "expo": "~47.0.12",
     "expo-splash-screen": "~0.17.5",
     "expo-status-bar": "~1.4.2",
+    "expo-updates": "^0.15.6",
     "link": "^1.5.1",
     "react": "18.1.0",
     "react-dom": "18.1.0",
